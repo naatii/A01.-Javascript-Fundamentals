@@ -1,0 +1,15 @@
+* {
+  list-style: none;
+  color: black;
+  text-decoration: none;
+}
+nav ol {
+  display: flex;
+  gap: 1em;
+}
+#MyPoper{
+  width: 90%;
+}
+#consoleOutput{
+  columns: 2;
+}
